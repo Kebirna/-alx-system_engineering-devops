@@ -20,4 +20,4 @@
 19. Replace characters  
 20. Remove all letters cC from input  
 21. Reverse input  
-22. Display users and their home dirs  
+22. Display users 
